@@ -1,8 +1,9 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-	std::cout << "Agougougaga" << std::endl;
+	cout << "Agougougaga" << endl << "Uwu\n";
 
 	return 0;
 }
